@@ -9,7 +9,7 @@ ___
 
 Możliwości na blogu:
 -Czytanie postów 
-![Czytanie_postow](https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/tree/lab1/assets/images/czytanie.png "Czytanie postow")
+![Czytanie_postow](https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/czytanie.png?raw=true "Czytanie postow")
 (Tylko dla zalogowanych)
 -Dodawanie postów
 ![Dodawanie postów][dodawanie]
