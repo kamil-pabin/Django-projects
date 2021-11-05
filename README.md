@@ -1,8 +1,6 @@
 # Laboratorium1 z Aplikacji Internetowych!
 
 ## W tym laboratorium wykorzystałem Django oraz pythonanywhere żeby 'postawić' własnego bloga :)
-___
-
 ## Link do mojego bloga na pythonanywhere: [klik](https://kamil22637.pythonanywhere.com/)
 ___
 
