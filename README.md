@@ -1,15 +1,15 @@
 # Laboratorium1 z Aplikacji Internetowych!
 ___
 
-W tym laboratorium wykorzystałem Django oraz pythonanywhere żeby 'postawić' własnego bloga :)
+##W tym laboratorium wykorzystałem Django oraz pythonanywhere żeby 'postawić' własnego bloga :)
 ___
 
-Link do mojego bloga na pythonanywhere: [klik](https://kamil22637.pythonanywhere.com/)
+##Link do mojego bloga na pythonanywhere: [klik](https://kamil22637.pythonanywhere.com/)
 ___
 
-Możliwości na blogu:
+##Możliwości na blogu:
 -Czytanie postów 
-![Czytanie_postow](https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/czytanie.png?raw=true "Czytanie postow")
+![Czytanie_postow][czytanie]
 (Tylko dla zalogowanych)
 -Dodawanie postów
 ![Dodawanie postów][dodawanie]
