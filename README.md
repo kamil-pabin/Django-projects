@@ -1,5 +1,4 @@
 # Laboratorium1 z Aplikacji Internetowych!
-___
 
 ## W tym laboratorium wykorzystałem Django oraz pythonanywhere żeby 'postawić' własnego bloga :)
 ___
