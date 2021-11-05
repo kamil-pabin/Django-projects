@@ -8,15 +8,15 @@ ___
 
 ## Możliwości na blogu:
 + Czytanie postów 
-![Czytanie_postow][czytanie]
-(Tylko dla zalogowanych)
+![Czytanie_postow][po_usunieciu]
+### (Tylko dla zalogowanych)
 + Dodawanie postów
 ![Dodawanie postów][dodawanie]
 ![Po dodaniu posta][po_dodaniu]
 + Edytowanie postów
 ![Edytowanie postów][edycja_posta]
 + Usuwanie postów
-![Usuwanie postów][konkretny_post]
+![Usuwanie postów][czytanie]
 ![Po usunieciu posta][po_usunieciu]
 ___
 
