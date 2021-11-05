@@ -21,10 +21,10 @@ Możliwości na blogu:
 ![Po usunieciu posta][po_usunieciu]
 ___
 
-[czytanie]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/tree/lab1/assets/images/czytanie.png "Czytanie postow"
-[dodawanie]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/tree/lab1/assets/images/dodawanie.png "Dodawanie postow"
-[edycja_posta]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/tree/lab1/assets/images/edycja_posta.png "Edycja posta"
-[konkretny_post]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/tree/lab1/assets/images/konkretny_post.png "Konkretny_post"
-[po_dodaniu]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/tree/lab1/assets/images/po_dodaniu.png "Po dodaniu"
-[po_usunieciu]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/tree/lab1/assets/images/po_usunieciu.png "Po usunieciu"
+[czytanie]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/czytanie.png?raw=true "Czytanie postow"
+[dodawanie]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/dodawanie.png?raw=true "Dodawanie postow"
+[edycja_posta]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/edycja_posta.png?raw=true "Edycja posta"
+[konkretny_post]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/konkretny_post.png?raw=true "Konkretny_post"
+[po_dodaniu]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/po_dodaniu.png?raw=true "Po dodaniu"
+[po_usunieciu]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/po_usunieciu.png?raw=true "Po usunieciu"
 
