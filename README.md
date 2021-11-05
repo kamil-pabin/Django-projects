@@ -1,22 +1,22 @@
 # Laboratorium1 z Aplikacji Internetowych!
 ___
 
-##W tym laboratorium wykorzystałem Django oraz pythonanywhere żeby 'postawić' własnego bloga :)
+## W tym laboratorium wykorzystałem Django oraz pythonanywhere żeby 'postawić' własnego bloga :)
 ___
 
-##Link do mojego bloga na pythonanywhere: [klik](https://kamil22637.pythonanywhere.com/)
+## Link do mojego bloga na pythonanywhere: [klik](https://kamil22637.pythonanywhere.com/)
 ___
 
-##Możliwości na blogu:
--Czytanie postów 
+## Możliwości na blogu:
++ Czytanie postów 
 ![Czytanie_postow][czytanie]
 (Tylko dla zalogowanych)
--Dodawanie postów
++ Dodawanie postów
 ![Dodawanie postów][dodawanie]
 ![Po dodaniu posta][po_dodaniu]
--Edytowanie postów
++ Edytowanie postów
 ![Edytowanie postów][edycja_posta]
--Usuwanie postów
++ Usuwanie postów
 ![Usuwanie postów][konkretny_post]
 ![Po usunieciu posta][po_usunieciu]
 ___
