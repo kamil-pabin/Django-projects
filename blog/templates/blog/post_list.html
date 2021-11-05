@@ -1,9 +1,16 @@
-<html>
-    <head>
-        <title>Kamil jest ekstra</title>
-    </head>
-    <body>
-        <p>Hi there!</p>
-        <p>It works!</p>
-    </body>
-</html>
+{% extends 'blog/base.html' %}
+{% load blog_tags %}
+
+{% block content %}
+    {% for post in posty %}
+        <div class="post">
+            <div class="date">
+                <p>opublikowano: {{ post.published_date }}</p>
+            </div>
+            <h1><a href="{% url 'post_detail' pk=post.pk %}">{{ post.title }}</a></h1>
+            <p>{{ post.text|linebreaksbr }}</p>
+        </div>
+    {% endfor %}
+    <h3>To blok Kamila. Kamil jest świetny. Kamil chce 5. </h3>
+
+{% endblock %}
