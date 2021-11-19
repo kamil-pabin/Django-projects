@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'blog195ic22637.urls'
+ROOT_URLCONF = 'strona.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'blog195ic22637.wsgi.application'
+WSGI_APPLICATION = 'strona.wsgi.application'
 
 
 # Database
