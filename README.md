@@ -17,8 +17,8 @@ ___
 ![Strona Główna][glowna]
 ___
 
-[logowanie]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/logowanie.png?raw=true "Logowanie"
-[reseth]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/reset_hasla.png?raw=true "Reset hasła"
-[zmianah]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/zmiana_hasla.png?raw=true "Zmiana hasła"
-[logout]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/logout.png?raw=true "Wylogowanie"
-[glowna]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab1/assets/images/glowna.png?raw=true "Strona główna"
+[logowanie]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab2/assets/images/logowanie.png?raw=true "Logowanie"
+[reseth]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab2/assets/images/reset_hasla.png?raw=true "Reset hasła"
+[zmianah]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab2/assets/images/zmiana_hasla.png?raw=true "Zmiana hasła"
+[logout]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab2/assets/images/logout.png?raw=true "Wylogowanie"
+[glowna]: https://github.com/kamil-pabin/aplikacje-internetowe-22637-195ic/blob/lab2/assets/images/glowna.png?raw=true "Strona główna"
