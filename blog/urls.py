@@ -10,7 +10,7 @@ urlpatterns = [
     path('login/', views.login, name='login'),
     path('password_change/', auth_views.PasswordChangeView, name='PasswordChangeView'),
     path('logout/', auth_views.logout_then_login, name='logout_then_login'),
-    path('password_reset/', auth_views.PasswordResetView, name='PasswordResetView'),
+    path('password_reset/', views.password_reset_request, name='password_reset'),
     path('change_password/', auth_views.PasswordChangeView.as_view()),
     path('post/<int:pk>/', views.post_detail, name='post_detail'),
     path('post/new', views.post_new, name='post_new'),
