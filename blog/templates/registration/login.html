@@ -1,5 +1,5 @@
-{% extends "blog/base.html" %}
-
+{% extends "base.html" %}
+{% load static %}
 {% block title %}
 Login Here
 {% endblock %}
@@ -10,6 +10,8 @@ Login Here
 <p>Złe dane logowania. Ić stond</p>
 {% endif %}
 <p>
+    <p>Dzien dobry!</p>
+    <div id="XDXD"> ABCD</div>
 <form method="post" action="{% url 'login' %}">
   {% csrf_token %}
   <table>

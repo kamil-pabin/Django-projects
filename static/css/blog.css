@@ -42,3 +42,11 @@ h1, h2, h3, h4 {
 .post h2 a, .post h1 a:visited {
     color: #000000;
 }
+
+#XDXD{
+    color:red;
+}
+body{
+    display:flex;
+    margin:auto;
+}
