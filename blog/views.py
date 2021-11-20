@@ -89,19 +89,6 @@ def password_reset_request(request):
 	password_reset_form = PasswordResetForm()
 	return render(request=request, template_name="main/password/password_reset.html", context={"password_reset_form":password_reset_form})
 
-def register_request(request):
-	if request.method == "POST":
-		regform = NewUserForm(request.POST)
-		if regform.is_valid():
-			user = regform.save()
-			login(request, user)
-			messages.success(request, "Registration successful." )
-			return redirect("blog/base.html")
-		messages.error(request, "Unsuccessful registration. Invalid information.")
-	regform = NewUserForm()
-	return render (request=request, template_name="registration/register.html", context={"register_form":form})
-#nie dziala crispy form w pliku register.html, cala reszta dziala, ale nie moge tych form tam wyswietlic bo wywala blad 500
-
 def register(request):
 	if request.method == 'POST':
 		user_form = UserRegistrationForm(request.POST)
@@ -111,7 +98,10 @@ def register(request):
 				user_form.cleaned_data['password'])
 			new_user.save()
 			Profile.objects.create(user=new_user)
-			return render(request, 'account/register_done.html', {'new_user': new_user})
+			return render(request, 'register_done.html', {'new_user': new_user})
 	else:
 		user_form = UserRegistrationForm()
 	return render(request, 'account/register.html', {'user_form': user_form})
+
+def profile(request):
+    return render(request, 'accounts/profile.html', {'post': post})
