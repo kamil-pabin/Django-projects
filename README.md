@@ -1,18 +1,18 @@
-# Projekt 1
+# Project 1
 
-## W tym projekcie wykorzystałem Django oraz pythonanywhere żeby 'postawić' własnego bloga :)
+## In this project, I have created my own Django blog, using pythonanywhere :)
 ___
 
-## Możliwości na blogu:
-+ Czytanie postów 
+## What you can do:
++ Read blog posts :
 ![Czytanie_postow][po_usunieciu]
-### (Tylko dla zalogowanych)
-+ Dodawanie postów
+### (Only for authenticated users)
++ Adding posts
 ![Dodawanie postów][dodawanie]
 ![Po dodaniu posta][po_dodaniu]
-+ Edytowanie postów
++ Editing posts
 ![Edytowanie postów][edycja_posta]
-+ Usuwanie postów
++ Remove posts
 ![Usuwanie postów][czytanie]
 ![Po usunieciu posta][po_usunieciu]
 ___
