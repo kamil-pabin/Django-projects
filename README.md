@@ -1,12 +1,4 @@
-# W tym repozytorium znajdują się wykonane przeze mnie zadania na laboratoria z Aplikacji Internetowych :)
+# W tym repozytorium znajdują się wykonane przeze mnie projekty z wykrozystaniem Django oraz pythonanywhere :)
 
-## Każde laboratorium zapisane jest w osobnym branchu - tak, aby łatwo można było się między nimi przełączać.
+## Każdy projekt zapisany jest w osobnym branchu - tak, aby łatwo można było się między nimi przełączać. Każdy z nich posiada readme - żeby można było zrozumieć co jest czym.
 
-### Stan laboratoriów:
-
-| Numer | Zrobione:  | Ocena:  |
-| :---- |:----------:| --------|
-| `1` | `✔️` | 5️⃣ |
-| `2` | `✔️` | 5️⃣ |
-| `3` | `✔️` | 5️⃣ |
-| `4` | `✔️` | 5️⃣ |
